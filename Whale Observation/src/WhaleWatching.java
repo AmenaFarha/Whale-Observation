@@ -446,7 +446,7 @@ public class WhaleWatching {
 
 		System.out.println("====================  Species : Orca  ============================");
 		System.out.println("");
-		System.out.println("Total number observed over the four locations : " + totalOrca + totalOrcaCalf);
+		System.out.println("Total number observed over the four locations : " + (totalOrca + totalOrcaCalf);
 		System.out.println("Total  number  of adult whales : " + totalOrca);
 		System.out.println("Total number Of calves : " + totalOrcaCalf);
 		System.out.println("Total number of injured whales: " + injuredOrca);
